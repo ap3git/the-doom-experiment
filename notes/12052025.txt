@@ -1,0 +1,15 @@
+So, this project's aim is to create a videogame light as possible, but with everything is needed to be called a game, a 3D game.
+Im not a game programmer and i've never made one, so at first i want to go as minimal as possible, and maybe in future i will learn more complex game engines like Unity or Godot. For the moment i want to combine getting some results faster and a game that i love: Doom.
+
+I discovered that is possible to create custom maps for Doom: the .wad files, since my goal is to create a full game i researched a bit deeper ad i've found that is possible also to use the Doom engine to create full standalone games. 
+The first step from now is to learn about the Ultimate Doom Builder map editor and use a .ipk3 package (maps, assets and scripts) to get something out of the cap, then i think i can just make a folder with the engine and my game assets. Idk..
+
+Resources:
+GZDOOM wiki: https://zdoom.org/wiki/Main_Page
+Doomworld wiki: https://www.doomworld.com/
+Standalone Game infos: https://www.doomworld.com/forum/topic/123336-i-want-to-make-a-standalone-game-with-the-doom-engine/
+Doom dev tutorials: https://www.youtube.com/playlist?list=PL-36gm0W-VKmfVVCGe1HTVABepUXshxjY
+
+GZDOOM engine: https://zdoom.org/downloads				engine
+UltimateDoomBuilder: https://ultimatedoombuilder.github.io/		maps
+Slade3: https://slade.mancubus.net/					full editor

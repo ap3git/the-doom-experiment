@@ -1,0 +1,2 @@
+for making a standalone game with gzdoom, you have to make an iwad for it. that is, making a normal wad/zip file on the same folder as gzdoom and renaming it as .iwad or .ipk3. also a GZDoom custom iwad needs an IWADINFO lump, there is more info: https://zdoom.org/wiki/IWADINFO
+https://forum.zdoom.org/viewtopic.php?f=37&t=70232
